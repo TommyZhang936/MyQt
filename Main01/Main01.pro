@@ -4,4 +4,5 @@ SUBDIRS += \
     System \
     Report \
     Engineering \
-    Manufacture
+    Manufacture \
+    Public
